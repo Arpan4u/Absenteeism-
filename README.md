@@ -1,0 +1,1 @@
+The aim of this project is to understand the flow of data in a real life business model. To understand this, I have integrated Jupyter notebook, MySQL workbench and tableau. The figure below shows the responsibilities of Data Scientists/ML Engineers and Business Intelligence/Data Analysts.
